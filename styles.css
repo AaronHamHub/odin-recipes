@@ -1,0 +1,24 @@
+h1 {
+    color: orange;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3 {
+    color: chocolate;
+    font-weight: 100;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+li {
+    color: crimson;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    color: cornflowerblue;
+}
+
+p {
+    color:blue;
+}
